@@ -18,7 +18,7 @@
 
 
 * [ML First principles]() 
-* [Bias Variance Tradeoff]()
+* [Bias Variance Tradeoff](https://github.com/iamsiva11/Big-Notebook-of-MachineLearning/blob/master/ML-Theory/Bias-Variance.md)
 * [Overfitting]() 
 * [Regularization]()
 * [Cost Function]()
@@ -40,8 +40,8 @@
 
 * [Data preparation]()
 	* [Data Splitting]()
-* Feature Engineering
-* Feature Selection
+* [Feature Engineering]()
+* [Feature Selection]()
 * [Model Evaluation]()
 	* [Evaluation Metrics]()
 	* [Cross Validation]()
