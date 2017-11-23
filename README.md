@@ -1,5 +1,7 @@
 # Big Notebook of Machine learning
 
+> Work in Progresss
+
 
 ![Repo Image](https://github.com/iamsiva11/Big-Notebook-of-MachineLearning/blob/master/img/ml-wordcloud.png "ML wordcloud")
 
@@ -65,8 +67,3 @@
 * [Adaboost]()
 * [Xgboost]()
 * [Gradient Boosting Machine(GBM)]()
-
-
-
-
-
