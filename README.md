@@ -20,19 +20,7 @@ This is my multi-month study plan for becoming a professional ML engineer.
 
 My main goal I'm planning to achieve with this repo is to get anyone level up their ML skills in a quick timeframe. Especially, to get anyone make rapid progress in becoming ML professional and not repeat the mistakes that I made in my early years with ML. I have organised this guide in a way it’s open to anyone to get started in their ML journey
 
-### Path 1 - Short guide.  
-
-From zero(any background, not necessarily CS) to ML professional. I hope this serves as a reference for people who know ML and want to brush up few areas.
-
-### Path 2 - Long guide. 
-
-From ML professional - ML rockstar(ML engineer to ML rockstar) ( I'm currently on this path :) )
-
-Please, feel free to make any contributions to make this better.
-
----
-
-# Right way to approach learning ML
+## Right way to approach learning ML
 
 ML is a really broad field, it takes years if not decades to master ML. But it should not be the case for becoming a professional ML engineer.
 
@@ -44,11 +32,16 @@ Taking courses, reading books can be done once you get a grasp of how all the co
 
 Top-down approach for getting started in applied machine learning actually works. They should feel familiar because it’s probably the same top-down approach that you used to learn how to program. Namely, get the basics, practice a lot and dive into the details later after you’re hooked.
 
-We can summarize this top-down approach as follows:
-* Learn the high-level process of applied machine learning.
-* Learn how to use a tool enough to be able to work through problems.
-* Practice on datasets, a lot.
-* Transition into the details and theory of machine learning algorithms.
+---
 
+### Path 1 - Short guide.  
 
+From zero(any background, not necessarily CS) to ML professional. I hope this serves as a reference for people who know ML and want to brush up few areas.
 
+### Path 2 - Long guide. 
+
+From ML professional - ML rockstar(ML engineer to ML rockstar) ( I'm currently on this path :) )
+
+Please, feel free to make any contributions to make this better.
+
+---
