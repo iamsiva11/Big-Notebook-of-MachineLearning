@@ -47,8 +47,10 @@ From zero(any background, not necessarily CS) to ML professional. I hope this se
 
 ### ML rockstar path
 
-From ML professional - ML rockstar ( I'm currently on this path :smiley: )
+From ML professional - ML rockstar ( PS: I'm currently on this path :smiley: )
+
+---
 
 Please feel free to make any contributions to make this better.
 
----
+
