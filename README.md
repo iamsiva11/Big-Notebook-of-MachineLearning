@@ -10,8 +10,6 @@
 > 
 > Good luck, may the force be with you.
 
-
-
 Inspired from  [Coding Interview University](https://github.com/jwasham/coding-interview-university), [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
 
 ---
@@ -43,11 +41,29 @@ Top-down approach for getting started in applied machine learning actually works
 
 ### ML professional path  
 
-From zero(any background, not necessarily CS) to ML professional. I hope this serves as a reference for people who know ML and want to brush up few areas.
+> From zero(any background, not necessarily CS) to ML professional. I hope this serves as a reference for people who know ML and want to brush up few areas.
+
+* First principles 
+* Machine learning glossary
+* Theory & concepts
+* Applied 
+	* ML in practice 
+	* Practicing ML
+	* ML toolkits 
+* Algorithms
+* Interview
+* Practicing Machine learning 
+
 
 ### ML rockstar path
 
-From ML professional - ML rockstar ( PS: I'm currently on this path :smiley: )
+> From ML professional - ML rockstar ( PS: I'm currently on this path :smiley: )
+
+* ML from scratch
+* Math of ML
+* Scalable ML
+* Building ML Products
+* Enterprise ML
 
 ---
 
