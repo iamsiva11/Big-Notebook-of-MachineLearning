@@ -1,7 +1,5 @@
 # Machine Learning University
 
-> Work in Progresss
-
 ![Machine learning image](https://github.com/iamsiva11/Big-Notebook-of-MachineLearning/blob/master/img/mld-logo2.png)
 
 ## Table of Contents
@@ -13,7 +11,6 @@
 
 <a name="ml-theory"></a>
 # ML Theory 
-
 
 * [ML First principles]() 
 * [Bias Variance Tradeoff](https://github.com/iamsiva11/Big-Notebook-of-MachineLearning/blob/master/ML-Theory/Bias-Variance.md)
