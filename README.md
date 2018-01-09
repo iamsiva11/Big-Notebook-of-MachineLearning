@@ -34,6 +34,9 @@ Top-down approach for getting started in applied machine learning actually works
 
 ---
 
+# Learning paths
+
+
 ### ML professional path  
 
 From zero(any background, not necessarily CS) to ML professional. I hope this serves as a reference for people who know ML and want to brush up few areas.
