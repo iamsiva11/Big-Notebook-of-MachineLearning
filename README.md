@@ -1,17 +1,14 @@
-# Big Notebook of Machine learning
+# Machine Learning University
 
 > Work in Progresss
 
-
 ![Machine learning image](https://github.com/iamsiva11/Big-Notebook-of-MachineLearning/blob/master/img/mld-logo2.png)
-
 
 ## Table of Contents
 
 - [ML Theory](#ml-theory)
 - [ML Applied](#ml-applied)
 - [ML Algorithms](#ml-algorithms)
-
 
 
 <a name="ml-theory"></a>
