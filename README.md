@@ -24,7 +24,7 @@ My main goal I'm planning to achieve with this repo is to get anyone level up th
 
 ## Right way to approach learning ML
 
-ML is a really broad field, it takes years if not decades to master ML. But it should not be the case for becoming a professional ML engineer.
+> ML is a really broad field, it takes years if not decades to master ML. But it should not be the case for becoming a professional ML engineer.
 
 Typical books and university-level courses are bottom-up. They teach or require the mathematics before grinding through a few key algorithms and theories before finishing up. This can be a good approach if you have the time, patience and appropriate background. Not everyone has so much free time or the desire to move through so much low-level material before getting to the meat and potatoes of applied machine learning.
 
