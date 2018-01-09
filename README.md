@@ -3,7 +3,7 @@
 > Work in Progresss
 
 
-![Machine learning image]({{site.baseurl}}/img/mld-logo2.png)
+![Machine learning image](https://github.com/iamsiva11/Big-Notebook-of-MachineLearning/blob/master/img/mld-logo2.png)
 
 
 ## Table of Contents
