@@ -3,11 +3,10 @@
 > Work in Progresss
 
 
-![Repo Image](https://github.com/iamsiva11/Big-Notebook-of-MachineLearning/blob/master/img/ml-wordcloud.png "ML wordcloud")
+![Machine learning image]({{site.baseurl}}/img/mld-logo2.png)
 
 
 ## Table of Contents
-
 
 - [ML Theory](#ml-theory)
 - [ML Applied](#ml-applied)
