@@ -2,8 +2,6 @@
 
 ![Machine learning image](https://github.com/iamsiva11/Big-Notebook-of-MachineLearning/blob/master/img/mld-logo2.png)
 
-Inspired from  [Coding Interview University](https://github.com/jwasham/coding-interview-university), [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-
 > I have been doing machine learning professionally for almost a year(doing deep learning for healthcare startup currently) and I'm completely self-taught.
 > 
 > A quick story on my ML journey. Back in 2011, in my sophomore year, I knew I wanted to be involved in ML professionally; but I didn't know how. My path to becoming proficient in ML had lots of ups and downs. With so much trial and error and almost no guidance. Initially, I wasted a lot of time in dabbling with lots of math heavy books and not knowing where I'm heading. Fast forward 3 years with a concrete plan in mind, I spent close to 2 years rigorously practicing ML(reading books, MOOCs, ML competitions ,etc) after work hours, weekends.
@@ -12,7 +10,9 @@ Inspired from  [Coding Interview University](https://github.com/jwasham/coding-i
 > 
 > Good luck, may the force be with you.
 
+Inspired from  [Coding Interview University](https://github.com/jwasham/coding-interview-university), [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
+---
 
 # What is it?
 
