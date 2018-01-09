@@ -4,13 +4,29 @@
 
 Inspired from  [Coding Interview University](https://github.com/jwasham/coding-interview-university), [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
+> I have been doing machine learning professionally for almost a year(doing deep learning for healthcare startup currently) and I'm completely self-taught.
+
+> A quick story on my ML journey. Back in 2011, in my sophomore year, I knew I wanted to be involved in ML professionally; but I didn't know how. My path to becoming proficient in ML had lots of ups and downs. With so much trial and error and almost no guidance. Initially, I wasted a lot of time in dabbling with lots of math heavy books and not knowing where I'm heading. Fast forward 3 years with a concrete plan in mind, I spent close to 2 years rigorously practicing ML(reading books, MOOCs, ML competitions ,etc) after work hours, weekends.
+
+> Moreover, I started off this work as a way to clean up and re-organise the ML notes I have taken in the past 4-5 years. Which I also used for preparing ML interviews; while giving plenty of interviews close to 6 months. And thought about why not make it useful for others as well as a way to benefit their ml journey.
+
+
 # What is it?
 
 This is my multi-month study plan for becoming a professional ML engineer.
 
-I have been doing machine learning professionally for almost a year(doing deep learning for healthcare startup currently) and I'm completely self-taught.
+My main goal I'm planning to achieve with this repo is to get anyone level up their ML skills in a quick timeframe. Especially, to get anyone make rapid progress in becoming ML professional and not repeat the mistakes that I made in my early years with ML. I have organised this guide in a way it’s open to anyone to get started in their ML journey
 
-A quick story on my ML journey. Back in 2011, in my sophomore year, I knew I wanted to be involved in ML professionally; but I didn't know how. My path to becoming proficient in ML had lots of ups and downs. With so much trial and error and almost no guidance. Initially, I wasted a lot of time in dabbling with lots of math heavy books and not knowing where I'm heading. Fast forward 3 years with a concrete plan in mind, I spent close to 2 years rigorously practicing ML(reading books, MOOCs, ML competitions ,etc) after work hours, weekends.
+### Path 1 - Short guide.  
 
-Moreover, I started off this work as a way to clean up and re-organise the ML notes I have taken in the past 4-5 years. Which I also used for preparing ML interviews; while giving plenty of interviews close to 6 months. And thought about why not make it useful for others as well as a way to benefit their ml journey.
+From zero(any background, not necessarily CS) to ML professional. I hope this serves as a reference for people who know ML and want to brush up few areas.
+
+### Path 2 - Long guide. 
+
+From ML professional - ML rockstar(ML engineer to ML rockstar) ( I'm currently on this path :) )
+
+Please, feel free to make any contributions to make this better.
+
+---
+
 
