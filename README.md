@@ -36,7 +36,7 @@ Top-down approach for getting started in applied machine learning actually works
 
 # Learning paths
 
-![ML learning path](https://github.com/iamsiva11/Big-Notebook-of-MachineLearning/blob/master/img/1*XZud2LX7hDGWMbGk4ukQfg.png)
+![ML learning path](https://github.com/iamsiva11/Big-Notebook-of-MachineLearning/blob/master/img/learn-path-small.png)
 
 # ML Hacker path  
 
