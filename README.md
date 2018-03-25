@@ -38,7 +38,7 @@ Top-down approach for getting started in applied machine learning actually works
 
 # ML Hacker path  
 
-> A "hacker", here, is "someone who likes to solve problems and experiment with new technologies", i.e who is less intrested on theory and more focus on solving problems while getting things done.
+> A "hacker", here, is "someone who likes to solve problems and experiment with new technologies", i.e who is interested less on theory but more on solving problems while getting things done.
 
 * First principles 
 * Machine learning glossary
