@@ -16,9 +16,9 @@ Inspired from  [Coding Interview University](https://github.com/jwasham/coding-i
 
 # What is it?
 
-This is my multi-month study plan for becoming a professional ML engineer.
+This is a multi-month study plan for becoming a professional ML engineer.
 
-My main goal I'm planning to achieve with this repo is to get anyone level up their ML skills in a quick timeframe. Especially, to get anyone make rapid progress in becoming ML professional and not repeat the mistakes that I made in my early years with ML. I have organised this guide in a way it’s open to anyone to get started in their ML journey
+The main goal I'm planning to achieve with this repo is to get anyone level up their ML skills in a quick timeframe. Especially, to get anyone make rapid progress in becoming ML professional and not repeat the mistakes that I made in my early years with ML. I have organised this guide in a way it’s open to anyone to get started in their ML journey
 
 ## Right way to approach learning ML
 
@@ -68,5 +68,3 @@ Top-down approach for getting started in applied machine learning actually works
 ---
 
 Please feel free to make any contributions to make this better.
-
-
