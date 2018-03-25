@@ -38,22 +38,21 @@ Top-down approach for getting started in applied machine learning actually works
 
 ![ML learning path](https://github.com/iamsiva11/Big-Notebook-of-MachineLearning/blob/master/img/1*XZud2LX7hDGWMbGk4ukQfg.png)
 
+# ML Hacker path  
+
+* First principles 
+* Machine learning glossary
+* ML in Action
 
 # ML Professional path  
 
 > From zero(any background, not necessarily CS) to ML professional. I hope this serves as a reference for people who know ML and want to brush up few areas.
 
-* First principles 
-* Machine learning glossary
 * Theory & concepts
-* Applied 
-	* ML in practice 
-	* Practicing ML
-	* ML toolkits 
 * Algorithms
 * Interview
 * Practicing Machine learning 
-
+	* ML in practice 
 
 # ML Rockstar path
 
